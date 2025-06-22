@@ -8,5 +8,6 @@
 cd config
 git clone https://github.com/XiaoMi/ha_xiaomi_home.git
 cd ha_xiaomi_home
+git checkout v0.3.2
 ./install.sh /config
 ```
