@@ -15,3 +15,5 @@ git checkout v0.3.2
 Settings > Devices & services > ADD INTEGRATION > Search Xiaomi Home > NEXT > Click here to login > Sign in with Xiaomi account
 ![image](https://github.com/user-attachments/assets/57ece23c-7c1f-4985-a978-2166d6130fe1)
 ![image](https://github.com/user-attachments/assets/aed5580a-d1ee-4239-afc6-2f2d8ce3b1cf)
+完成之后能在主页看到所有从米家添加的设备
+<img width="3818" height="1811" alt="image" src="https://github.com/user-attachments/assets/e709ed9a-35e7-4f5a-87ec-298d845281b3" />
