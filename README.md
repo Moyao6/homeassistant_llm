@@ -17,3 +17,5 @@ Settings > Devices & services > ADD INTEGRATION > Search Xiaomi Home > NEXT > Cl
 ![image](https://github.com/user-attachments/assets/aed5580a-d1ee-4239-afc6-2f2d8ce3b1cf)
 完成之后能在主页看到所有从米家添加的设备
 <img width="3818" height="1811" alt="image" src="https://github.com/user-attachments/assets/e709ed9a-35e7-4f5a-87ec-298d845281b3" />
+可以在UI中简单制作出家庭灯控系统
+<img width="3834" height="1797" alt="image" src="https://github.com/user-attachments/assets/586f3a36-9bfc-4c17-9163-51bed485f04e" />
